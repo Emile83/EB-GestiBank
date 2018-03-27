@@ -80,7 +80,7 @@ public class Controleur extends HttpServlet {
 			rd = ctx.getRequestDispatcher("/vDeconnexion.jsp");
 			rd.forward(request, response);
 			break;
-			// Les utilisateurs externes n'ont pas forcément besoin d'être 
+			// Les utilisateurs externes n'ont pas forcémment besoin d'être 
 			// suivis par des cookies, à voir si on le fait quand même
 
 		default:
