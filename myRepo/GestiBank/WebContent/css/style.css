@@ -1,0 +1,153 @@
+body{
+background-color: #FBF5F3;
+}
+
+.photomilieu{
+
+	margin-left: 50px;
+	margin-top: 50px;
+
+}
+
+.jumbotron{
+	background-color: #6ABABA;
+	color: white;
+}
+
+.form-inline{
+
+
+	float: right;
+	margin-top: -50px;
+}
+
+.convertisseur{
+display: block;
+-webkit-box-sizing: content-box;
+-moz-box-sizing: content-box;
+box-sizing: content-box;
+float: none;
+z-index: auto;
+width: 259px;
+height: 280px;
+position: static;
+cursor: default;
+opacity: 1;
+margin: 0;
+margin-top: -330px;
+padding: 20px;
+overflow: hidden;
+border: none;
+-webkit-border-radius: 0;
+border-radius: 0;
+font: normal 16px/1 "Trebuchet MS", Helvetica, sans-serif;
+color: rgba(0,0,0,1);
+text-align: center;
+-o-text-overflow: ellipsis;
+text-overflow: ellipsis;
+background: #6ABABA;
+-webkit-box-shadow: 1px 1px 1px 0 rgba(0,0,0,0.3) ;
+box-shadow: 1px 1px 1px 0 rgba(0,0,0,0.3) ;
+text-shadow: 1px 1px 1px rgba(0,0,0,0.2) ;
+-webkit-transition: none;
+-moz-transition: none;
+-o-transition: none;
+transition: none;
+-webkit-transform: none;
+transform: none;
+-webkit-transform-origin: 50% 50% 0;
+transform-origin: 50% 50% 0;
+
+
+}
+
+
+h3{
+
+color : #6ABABA ;
+
+}
+
+#police{
+
+	color:white;
+}
+
+.carremilieu{
+text-align: justify;
+
+display: block;
+-webkit-box-sizing: content-box;
+-moz-box-sizing: content-box;
+box-sizing: content-box;
+float: none;
+z-index: auto;
+max-width: 800px;
+max-height: 700px;
+position: static;
+cursor: default;
+opacity: 1;
+margin: 0;
+margin-left: 350px;
+padding: 20px;
+overflow: hidden;
+border: none;
+-webkit-border-radius: 0;
+border-radius: 0;
+font: normal 16px/1 "Trebuchet MS", Helvetica, sans-serif;
+color: rgba(0,0,0,1);
+-o-text-overflow: ellipsis;
+text-overflow: ellipsis;
+background: #6ABABA;
+-webkit-box-shadow: 1px 1px 1px 0 rgba(0,0,0,0.3) ;
+box-shadow: 1px 1px 1px 0 rgba(0,0,0,0.3) ;
+text-shadow: 1px 1px 1px rgba(0,0,0,0.2) ;
+-webkit-transition: none;
+-moz-transition: none;
+-o-transition: none;
+transition: none;
+-webkit-transform: none;
+transform: none;
+-webkit-transform-origin: 50% 50% 0;
+transform-origin: 50% 50% 0;
+
+}
+
+#carrephoto{
+display: block;
+-webkit-box-sizing: content-box;
+-moz-box-sizing: content-box;
+box-sizing: content-box;
+float: none;
+z-index: auto;
+width: 250px;
+height: auto;
+position: static;
+cursor: default;
+opacity: 1;
+margin: 0;
+padding: 20px;
+overflow: hidden;
+border: none;
+-webkit-border-radius: 0;
+border-radius: 0;
+font: normal 16px/1 "Trebuchet MS", Helvetica, sans-serif;
+color: rgba(255,255,255,1);
+text-align: center;
+-o-text-overflow: ellipsis;
+text-overflow: ellipsis;
+background: #D7FFF1;
+-webkit-box-shadow: 1px 1px 1px 0 rgba(0,0,0,0.3) ;
+box-shadow: 1px 1px 1px 0 rgba(0,0,0,0.3) ;
+text-shadow: 1px 1px 1px rgba(0,0,0,0.2) ;
+-webkit-transition: none;
+-moz-transition: none;
+-o-transition: none;
+transition: none;
+-webkit-transform: none;
+transform: none;
+-webkit-transform-origin: 50% 50% 0;
+transform-origin: 50% 50% 0;
+
+
+}
